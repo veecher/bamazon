@@ -1,0 +1,13 @@
+item_id,product_name,department_name,price,stock_quantity
+1,sammich,food,1.75,1000
+2,"a single gummy bear",food,199.99,300
+3,"solid gold strawberries",food,7000.00,750
+4,"old shirt",clothes,1.25,27
+5,"some kinda shoes",clothes,199.99,300
+6,jacket,clothes,7000.00,750
+7,pants,clothes,1.25,27
+8,tv,electronics,199.99,300
+9,"robot dinosaur",electronics,7000.00,750
+10,"circuit board",electronics,1.25,27
+11,skateboard,"sporting goods",199.99,300
+12,sportsball,"sporting goods",7000.00,750
